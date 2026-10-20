@@ -9,7 +9,7 @@ const DB_HOST = '127.0.0.1';
 const DB_NAME = 'esp32_timer';
 const DB_USER = 'YOUR_DATABASE_USER';
 const DB_PASS = 'YOUR_DATABASE_PASSWORD';
-const API_KEY = 'REPLACE_WITH_A_LONG_RANDOM_API_KEY';
+const API_KEY = 'aba1234';
 
 function db(): PDO {
     static $pdo = null;
