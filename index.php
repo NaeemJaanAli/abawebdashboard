@@ -469,7 +469,7 @@ tbody tr:hover { background: #1b2a40; }
 <script>
 // Must match config.php.
 // Must match API_KEY in config.php. For a public deployment, add real user authentication.
-const API_KEY = 'REPLACE_WITH_YOUR_API_KEY';
+const API_KEY = 'aba1234';
 const API_URL = 'api.php';
 
 let allSessions = [];
